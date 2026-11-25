@@ -10,7 +10,6 @@
 > **Final Capstone Submission**  
 > **Course:** AI in Cybersecurity Capstone  
 > **Author:** Deepak, Sahdev Sharma 
-> **Target Date:** 14 November 2026  
 > **Repository:** [https://github.com/deepakdotdevs/Phishing-Detection](https://github.com/deepakdotdevs/Phishing-Detection)
 
 ---
