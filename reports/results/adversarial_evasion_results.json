@@ -1,0 +1,26 @@
+{
+  "mild": {
+    "total_phishing_tested": 1202,
+    "evaded_count": 508,
+    "evasion_success_rate": 0.4226289517470882,
+    "avg_original_confidence": 0.943696939923021,
+    "avg_adversarial_confidence": 0.5466713180693731,
+    "avg_confidence_drop": 0.3970256218536478
+  },
+  "moderate": {
+    "total_phishing_tested": 1202,
+    "evaded_count": 826,
+    "evasion_success_rate": 0.6871880199667221,
+    "avg_original_confidence": 0.943696939923021,
+    "avg_adversarial_confidence": 0.400132925955265,
+    "avg_confidence_drop": 0.5435640139677559
+  },
+  "aggressive": {
+    "total_phishing_tested": 1202,
+    "evaded_count": 884,
+    "evasion_success_rate": 0.7354409317803661,
+    "avg_original_confidence": 0.943696939923021,
+    "avg_adversarial_confidence": 0.40518391263985726,
+    "avg_confidence_drop": 0.5385130272831636
+  }
+}

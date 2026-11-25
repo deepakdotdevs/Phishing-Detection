@@ -1,0 +1,13 @@
+{
+  "baseline_model": {
+    "clean_accuracy": 0.9647218453188603,
+    "clean_f1": 0.9685737308622079,
+    "adversarial_evasion_rate_moderate": 0.6871880199667221
+  },
+  "robust_model": {
+    "clean_accuracy": 0.9547715965626413,
+    "clean_f1": 0.9604117181314331,
+    "adversarial_evasion_rate_moderate": 0.004122011541632316
+  },
+  "evasion_reduction_percentage": 99.40016248510388
+}
