@@ -8,10 +8,10 @@
 [![Capstone](https://img.shields.io/badge/Capstone-120--Mark%20AI%20in%20Cybersecurity-purple.svg)]()
 
 > **Final Capstone Submission**  
-> **Course:** AI in Cybersecurity Capstone (120 Marks)  
-> **Author:** Kushagra Bhardwaj  
+> **Course:** AI in Cybersecurity Capstone  
+> **Author:** Deepak, Sahdev Sharma 
 > **Target Date:** 14 November 2026  
-> **Repository:** [https://github.com/Kush05Bhardwaj/Phishing-Detection](https://github.com/Kush05Bhardwaj/Phishing-Detection)
+> **Repository:** [https://github.com/deepakdotdevs/Phishing-Detection](https://github.com/deepakdotdevs/Phishing-Detection)
 
 ---
 
